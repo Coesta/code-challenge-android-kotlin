@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin" />
+    <dimen name="small_padding">8dp</dimen>
+    <item name="lineSpacing" type="dimen" format="float">1.2</item>
+</resources>

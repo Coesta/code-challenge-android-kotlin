@@ -23,4 +23,15 @@
         android:layout_centerInParent="true"
         tools:visibility="gone" />
 
+    <TextView
+        android:id="@+id/connection_off_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/connection_off"
+        tools:visibility="gone"
+        style="@style/text_style_detail"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textAlignment="center"/>
+
 </RelativeLayout>
